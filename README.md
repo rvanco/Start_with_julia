@@ -6,3 +6,4 @@ _First step are learn with the workshop given by this youtube chanel :_ https://
 
 * first_notebook.jl is the result of the video : "Learn Julia with Us 01: Getting started with Julia"
 * first_exercice_base_error.jl is the result of the video : "Learn Julia with Us 02: Your first Julia Code"
+* number_guess.jl is the result of the video : "Learn Julia by building a number guessing game!" wich I will change a bit to improve it
